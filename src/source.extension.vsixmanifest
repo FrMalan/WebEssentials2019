@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="509fc133-d9a6-4cf7-a558-e00fd11e0f9f" Version="0.5" Language="en-US" Publisher="Mads Kristensen" />
+        <Identity Id="509fc133-d9a6-4cf7-a558-e00fd11e0f9f" Version="0.6" Language="en-US" Publisher="Mads Kristensen (OV)" />
         <DisplayName>Web Essentials 2019</DisplayName>
         <Description xml:space="preserve">The easiest way to set up Visual Studio for the ultimate web development experience.</Description>
-        <MoreInfo>https://github.com/madskristensen/WebEssentials2019</MoreInfo>
+        <MoreInfo>https://github.com/FrMalan/WebEssentials2019</MoreInfo>
         <License>Resources\LICENSE</License>
         <Icon>Resources\Icon.png</Icon>
         <PreviewImage>Resources\Icon.png</PreviewImage>
